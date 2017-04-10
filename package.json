@@ -14,7 +14,9 @@
     "lint": "eslint --ext .js,.vue src test/unit/specs test/e2e/specs"
   },
   "dependencies": {
-    "vue": "^2.2.2"
+    "firebase": "^3.7.5",
+    "vue": "^2.2.2",
+    "vuefire": "^1.4.2"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.2",
